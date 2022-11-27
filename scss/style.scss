@@ -1,0 +1,12 @@
+// トップ部分のSCSSファイル
+@use "main/base" as *;
+// アニメーション専用ファイル
+@use "part/mixin" as *;
+// 色変更用ファイル
+@use "part/color" as *;
+// ヘッダーやフッターなどの共有パーツ
+@use "part/variable" as *;
+// ボタン部分のパーツ
+@use "part/button" as *;
+// 汎用CSS
+@use "main/index" as *;

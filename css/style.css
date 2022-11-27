@@ -1,0 +1,19 @@
+.textStyle {
+  color: yellow;
+}
+
+.textBrown {
+  color: brown;
+}
+
+.textFont {
+  font-size: 30px;
+}
+
+header {
+  position: relative;
+  width: 100%;
+  z-index: 100;
+}
+
+/*# sourceMappingURL=style.css.map */

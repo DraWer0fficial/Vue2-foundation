@@ -1,0 +1,10 @@
+@use "color" as *;
+
+// ヘッダー部分のCSS
+header {
+  position: relative;
+  width: 100%;
+  z-index: 100;
+}
+
+// 装飾要素ベース部分はここで作成
